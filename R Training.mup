@@ -1,0 +1,75 @@
+{
+  "title": "R Training",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "General",
+      "id": 2,
+      "ideas": {}
+    },
+    "3": {
+      "title": "modeling",
+      "id": 8
+    },
+    "4": {
+      "title": "Setup and Overview",
+      "id": 13,
+      "ideas": {
+        "1": {
+          "title": "Rstudio",
+          "id": 14,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Installation",
+          "id": 15
+        },
+        "3": {
+          "title": "Self-help",
+          "id": 16
+        },
+        "4": {
+          "title": "Why use R",
+          "id": 17
+        },
+        "0.5": {
+          "title": "Setup",
+          "id": 18
+        }
+      }
+    },
+    "14": {
+      "title": "Plotting",
+      "id": 5
+    },
+    "-1": {
+      "title": "Data manipulation",
+      "id": 4
+    },
+    "-2": {
+      "title": "statistics",
+      "id": 6,
+      "ideas": {}
+    },
+    "-3": {
+      "title": "best practices",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "version control",
+          "id": 10
+        },
+        "2": {
+          "title": "coding style",
+          "id": 11
+        },
+        "3": {
+          "title": "commenting/documentation",
+          "id": 12
+        }
+      }
+    }
+  },
+  "links": []
+}
