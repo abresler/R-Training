@@ -6,11 +6,107 @@
     "1": {
       "title": "General",
       "id": 2,
-      "ideas": {}
+      "ideas": {
+        "2": {
+          "title": "Arithmetic",
+          "id": 50
+        },
+        "3": {
+          "title": "Vocabulary",
+          "id": 51
+        },
+        "4": {
+          "title": "workspace",
+          "id": 52
+        },
+        "5": {
+          "title": "'c'",
+          "id": 53
+        },
+        "6": {
+          "title": "Objects",
+          "id": 54
+        },
+        "7": {
+          "title": "Factors",
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "Ordered/Unordered",
+              "id": 56
+            },
+            "2": {
+              "title": "reclassifying factors",
+              "id": 57
+            },
+            "3": {
+              "title": "defactoring",
+              "id": 58
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "8": {
+          "title": "Operators",
+          "id": 60
+        },
+        "9": {
+          "title": "classes",
+          "id": 62
+        },
+        "10": {
+          "title": "data modes",
+          "id": 63
+        },
+        "11": {
+          "title": "Language",
+          "id": 64
+        },
+        "12": {
+          "title": "packages",
+          "id": 67,
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
     },
     "3": {
       "title": "modeling",
-      "id": 8
+      "id": 8,
+      "ideas": {
+        "1": {
+          "title": "linear regression",
+          "id": 34
+        },
+        "2": {
+          "title": "nonlinear regression",
+          "id": 35
+        },
+        "3": {
+          "title": "linear mixed effects",
+          "id": 36
+        },
+        "4": {
+          "title": "nonlinear mixed effects",
+          "id": 37
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "4": {
       "title": "Setup and Overview",
@@ -37,20 +133,230 @@
           "title": "Setup",
           "id": 18
         }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
       }
     },
     "14": {
       "title": "Plotting",
-      "id": 5
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "base",
+          "id": 74
+        },
+        "2": {
+          "title": "ggplot",
+          "id": 75,
+          "ideas": {
+            "1": {
+              "title": "grammar of graphics",
+              "id": 76
+            },
+            "2": {
+              "title": "geoms",
+              "id": 77
+            },
+            "3": {
+              "title": "aesthetics",
+              "id": 78
+            },
+            "4": {
+              "title": "layers",
+              "id": 79
+            },
+            "5": {
+              "title": "faceting",
+              "id": 80
+            },
+            "6": {
+              "title": "plot types",
+              "id": 81
+            },
+            "7": {
+              "title": "ordered/unordered",
+              "id": 82
+            },
+            "8": {
+              "title": "factors",
+              "id": 83
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "pharmacometrics",
+          "id": 84,
+          "ideas": {
+            "1": {
+              "title": "diagnostic plots",
+              "id": 85
+            },
+            "2": {
+              "title": "XPOSE",
+              "id": 86
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "-1": {
-      "title": "Data manipulation",
-      "id": 4
+      "title": "Data Manipulation",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Reshaping",
+          "id": 20,
+          "ideas": {
+            "1": {
+              "title": "reshape2",
+              "id": 25
+            },
+            "2": {
+              "title": "wide vs long",
+              "id": 72
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "Merging",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "metrumRG - stableMerge",
+              "id": 27
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Transforming",
+          "id": 22
+        },
+        "4": {
+          "title": "Aggregating",
+          "id": 23,
+          "ideas": {
+            "1": {
+              "title": "plyr",
+              "id": 24
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "5": {
+          "title": "Pharmacometrics-related",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "nonmem/phoenix-ready data",
+              "id": 29
+            },
+            "2": {
+              "title": "dosing sheet creation",
+              "id": 32
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "6": {
+          "title": "tables",
+          "id": 69,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "7": {
+          "title": "filtering/subsetting",
+          "id": 73,
+          "ideas": {
+            "1": {
+              "title": "logical subsetting",
+              "id": 93
+            },
+            "2": {
+              "title": "subset",
+              "id": 94
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "collapsed": true
+      }
     },
     "-2": {
       "title": "statistics",
       "id": 6,
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "T-tests",
+          "id": 40
+        },
+        "2": {
+          "title": "ANOVA/ANCOVA",
+          "id": 41
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "-3": {
       "title": "best practices",
@@ -67,9 +373,95 @@
         "3": {
           "title": "commenting/documentation",
           "id": 12
+        },
+        "4": {
+          "title": "reproducible examples",
+          "id": 33
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-4": {
+      "title": "Function writing",
+      "id": 65,
+      "ideas": {
+        "1": {
+          "title": "Use of functions",
+          "id": 66
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-1.5": {
+      "title": "Data",
+      "id": 89,
+      "ideas": {
+        "1": {
+          "title": "reading data",
+          "id": 90
+        },
+        "2": {
+          "title": "writing data",
+          "id": 91
+        },
+        "0.5": {
+          "title": "Data Structures",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "vectors",
+              "id": 43
+            },
+            "2": {
+              "title": "matrices",
+              "id": 44,
+              "ideas": {}
+            },
+            "3": {
+              "title": "arrays",
+              "id": 46
+            },
+            "4": {
+              "title": "lists",
+              "id": 47
+            },
+            "5": {
+              "title": "dataframes",
+              "id": 48
+            },
+            "6": {
+              "title": "converting between types",
+              "id": 49
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
         }
       }
     }
   },
-  "links": []
+  "links": [],
+  "attr": {
+    "attachment": {
+      "contentType": "text/html",
+      "content": "Color scheme:<div><br></div><div>Grey - not started</div><div>Yellow - In progress</div><div>Green - Completed</div><div><br></div><div>Red - problem/to be removed</div>"
+    },
+    "style": {
+      "background": "#22AAE0"
+    }
+  }
 }
