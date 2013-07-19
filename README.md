@@ -3,7 +3,9 @@ R-Training
 
 Master repository for R training material. The goal is for this to be a compendium of knowledge, examples, and any other information that can be quickly developed into handouts, slides, or any other material for training as well as provide a reference source for R-related material. 
 
-The goal is to keep everything modularized such that it can easily be adapted as 
+The goal is to keep everything modularized such that it can easily be adapted.
+
+The examples and data sets are focused on application for pharmacometrics and drug development, however, are designed to be easily adapted and used for other fields.
 
 ----------
 
@@ -50,11 +52,11 @@ You can submit an [issue](https://github.com/dpastoor/R-Training/issues) to trac
 
 For example:
 
-> Please add an example to 'Data IO/reading data.Rmd' such that columns read in from a csv file are not factored by default
+> Please add an example to 'General/Data IO/reading data.Rmd' about how to read in a .csv file so columns are not factored by default
 
 NOT
 
-> please add some stuff about lattice and version control and how to clear your workspace in Rstudio 
+> please add some information about lattice and version control and how to clear your workspace in Rstudio 
 
 
 
