@@ -7,142 +7,6 @@
       "title": "General",
       "id": 2,
       "ideas": {
-        "2": {
-          "title": "Arithmetic",
-          "id": 50,
-          "attr": {
-            "style": {
-              "background": "false"
-            },
-            "progress": "1"
-          }
-        },
-        "3": {
-          "title": "Vocabulary",
-          "id": 51,
-          "attr": {
-            "style": {
-              "background": "false"
-            },
-            "progress": "1"
-          },
-          "ideas": {}
-        },
-        "4": {
-          "title": "workspace",
-          "id": 52,
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "5": {
-          "title": "'c'",
-          "id": 53,
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "6": {
-          "title": "Objects",
-          "id": 54,
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "7": {
-          "title": "Factors",
-          "id": 55,
-          "ideas": {
-            "1": {
-              "title": "Ordered/Unordered",
-              "id": 56,
-              "attr": {
-                "style": {
-                  "background": false
-                }
-              }
-            },
-            "2": {
-              "title": "reclassifying factors",
-              "id": 57,
-              "attr": {
-                "style": {
-                  "background": false
-                }
-              }
-            },
-            "3": {
-              "title": "defactoring",
-              "id": 58,
-              "attr": {
-                "style": {
-                  "background": false
-                }
-              }
-            }
-          },
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "8": {
-          "title": "Operators",
-          "id": 60,
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "9": {
-          "title": "classes",
-          "id": 62,
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "10": {
-          "title": "data modes",
-          "id": 63,
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "11": {
-          "title": "Language",
-          "id": 64,
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "12": {
-          "title": "packages",
-          "id": 67,
-          "ideas": {},
-          "attr": {
-            "style": {
-              "background": false
-            }
-          }
-        },
-        "13": {
-          "title": "scoping",
-          "id": 102
-        },
         "14": {
           "title": "Data Structures",
           "id": 42,
@@ -279,14 +143,181 @@
             },
             "collapsed": true
           }
+        },
+        "3.75": {
+          "title": "calculations",
+          "id": 132,
+          "ideas": {
+            "1": {
+              "title": "Arithmetic",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "false"
+                },
+                "progress": "1"
+              }
+            },
+            "2": {
+              "title": "rounding",
+              "id": 133
+            },
+            "3": {
+              "title": "significant figures",
+              "id": 134
+            },
+            "4": {
+              "title": "Operators",
+              "id": 60,
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "logical operators",
+                  "id": 135
+                }
+              }
+            },
+            "5": {
+              "title": "Factors",
+              "id": 55,
+              "ideas": {
+                "1": {
+                  "title": "Ordered/Unordered",
+                  "id": 56,
+                  "attr": {
+                    "style": {
+                      "background": false
+                    }
+                  }
+                },
+                "2": {
+                  "title": "reclassifying factors",
+                  "id": 57,
+                  "attr": {
+                    "style": {
+                      "background": false
+                    }
+                  }
+                },
+                "3": {
+                  "title": "defactoring",
+                  "id": 58,
+                  "attr": {
+                    "style": {
+                      "background": false
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              }
+            },
+            "6": {
+              "title": "sequences",
+              "id": 136
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "1.875": {
+          "title": "Basics",
+          "id": 128,
+          "ideas": {
+            "2": {
+              "title": "Vocabulary",
+              "id": 51,
+              "attr": {
+                "style": {
+                  "background": "false"
+                },
+                "progress": "1"
+              },
+              "ideas": {}
+            },
+            "4": {
+              "title": "workspace",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              }
+            },
+            "5": {
+              "title": "Objects",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              }
+            },
+            "8": {
+              "title": "Language",
+              "id": 64,
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              }
+            },
+            "9": {
+              "title": "classes",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              }
+            },
+            "10": {
+              "title": "data modes",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              }
+            },
+            "11": {
+              "title": "scoping",
+              "id": 102
+            },
+            "4.5": {
+              "title": "'c'",
+              "id": 53,
+              "attr": {
+                "style": {
+                  "background": "false"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            },
+            "collapsed": true
+          }
         }
       },
       "attr": {
         "style": {
           "background": "false"
         },
-        "progress": "1",
-        "collapsed": true
+        "progress": "1"
       }
     },
     "13": {
@@ -418,10 +449,10 @@
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "false"
-        }
+        },
+        "collapsed": true
       }
     },
     "43": {
@@ -466,6 +497,10 @@
               "background": "false"
             }
           }
+        },
+        "18": {
+          "title": "String and Pattern Matching",
+          "id": 137
         },
         "0.5": {
           "title": "apply functions",
@@ -734,6 +769,16 @@
             }
           }
         },
+        "5": {
+          "title": "packages",
+          "id": 67,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "false"
+            }
+          }
+        },
         "0.5": {
           "title": "Setup",
           "id": 18,
@@ -798,7 +843,8 @@
         "style": {
           "background": "#FFCC00"
         },
-        "progress": "in-progress"
+        "progress": "in-progress",
+        "collapsed": true
       }
     },
     "-1": {
@@ -848,10 +894,10 @@
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
-        }
+        },
+        "collapsed": true
       }
     }
   },
