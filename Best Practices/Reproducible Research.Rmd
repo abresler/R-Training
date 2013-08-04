@@ -1,0 +1,14 @@
+Reproducible Research
+===================================
+
+
+An important component of others being able to appropriately reproduce your research is understanding the conditions in which your scripts were run. An easy report of that information can be generated from the function-call:
+
+sessionInfo()
+
+```{r}
+sessionInfo()
+```
+
+
+As you can see, the sessionInfo gives version information about R and the attached and loaded packages. 

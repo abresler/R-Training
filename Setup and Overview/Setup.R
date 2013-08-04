@@ -1,7 +1,7 @@
 libraries <- c("ggplot2", "plyr", "metrumrg", "knitr", "reshape2", "lattice", 
-               "nlme", "nlmeODE","MASS", "psych", "reports", "metrumrg", "installr", 
-               "formatR", "lme4", "knitr", "pander", "metafor", "stargazer", "xpose4", 
-               "mvtnorm", "survival", "devtools", "Rtools", "deSolve")
+               "nlme", "nlmeODE","MASS", "psych", "reports", "installr", 
+               "formatR", "lme4", "pander", "metafor", "stargazer", "xpose4", 
+               "mvtnorm", "survival", "devtools", "Rtools", "deSolve", "installr")
 
 install.packages(libraries)
 
